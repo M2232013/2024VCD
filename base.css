@@ -1,0 +1,18 @@
+@charset "utf-8";
+body h1 {
+    color: #FF6900;
+    font-family: "源ノ角ゴシック Code JP EL";
+    font-size: xx-large;
+}
+body p img {
+    border: 10px dotted #C9F503;
+}
+
+.key {
+    color: #FFFFFF;
+    background-color: #0054FF;
+    font-size: x-large;
+}
+body {
+    background-image: url(sea.jpg);
+}
